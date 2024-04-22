@@ -11,3 +11,4 @@ function FindProxyForURL(url, host) {
     // Proxy server for all other requests
     return "PROXY 10.0.80.80:8080";
 }
+
